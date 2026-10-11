@@ -1,28 +1,20 @@
-COAST CHRISTMAS CLASSIC — WEBSITE UPDATE
+PLU FOOTBALL & BASEBALL PROGRAMS — WEBSITE UPDATE
 
-IMPORTANT: This is an UPDATE PACKAGE, not a complete backup of the website.
-The existing assets/ folder was not included in the files supplied here.
-DO NOT delete any existing assets or replace your repository with only these files.
+This is an UPDATE PACKAGE, not a complete website backup.
+DO NOT DELETE existing GitHub repository files or replace the existing assets folder.
 
-Upload the following to the ROOT of your GitHub Pages repository:
-  index.html
-  script.js
-  styles.css
-  interlake-basketball.html
+1. Upload these 4 files to the repository ROOT (replace existing copies):
+   index.html
+   styles.css
+   script.js
+   interlake-basketball.html
 
-Upload these two images INSIDE the existing assets/ folder:
-  coast-classic-newport-pilot-1991.jpg
-  coast-classic-estancia-1991.jpg
+2. Open the EXISTING assets/ folder in GitHub and upload ALL 8 JPG files from the assets/ folder in this ZIP.
+   Keep all previous images and clippings in the folder.
 
-Leave all other existing files untouched, especially:
-  your other sports pages, existing assets, sitemap.xml, robots.txt,
-  and the Google Search Console verification HTML file.
+3. Commit changes, wait for GitHub Pages to publish, then visit:
+   https://mmcpoland-sys.github.io/#plu-programs
 
-The photographs were brightened using ordinary image adjustments, not AI reconstruction.
-The two original scans remain otherwise unchanged in content.
+The update includes five original 1992 PLU football program pages and three original 1995 PLU baseball guide pages. All eight pages can be enlarged. It also preserves the previous Coast Christmas Classic website changes.
 
-After publishing, check:
- https://mmcpoland-sys.github.io/#california-tournament
- https://mmcpoland-sys.github.io/#articles
-
-Upload batches of 20 files or fewer if GitHub requests it.
+IMPORTANT: If the two Coast Christmas Classic images are already in your repository's assets folder, leave them there; this update does not delete them.
