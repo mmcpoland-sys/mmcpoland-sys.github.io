@@ -1,21 +1,9 @@
-PLU BASEBALL ARTICLES — WEBSITE UPDATE
+FAMILY ARCHIVE UPDATE — INCREMENTAL FILES ONLY
 
-This is an incremental update, not a complete website backup.
-DO NOT DELETE existing files, existing assets, or Google verification files.
+1. Extract this ZIP on your computer.
+2. In the ROOT of your GitHub Pages repository, replace ONLY index.html, interlake-basketball.html, styles.css, and script.js with these updated versions.
+3. Open your EXISTING assets/ folder in GitHub and upload the FOUR new JPG files inside this package’s assets/ folder.
+4. DO NOT delete other files, existing assets, the Google verification HTML file, or existing pages.
+5. Commit changes, wait for GitHub Pages to deploy, and visit https://mmcpoland-sys.github.io/#family-legacy
 
-1. Unzip this package on your computer.
-2. Upload index.html, script.js, styles.css, and interlake-basketball.html into the ROOT of your GitHub Pages repository, replacing those files.
-3. Open the existing assets/ folder in GitHub. Upload the five NEW images whose names begin with plu-baseball- and end in -1996.jpg, -1995.jpg, or -1993.jpg (listed below).
-4. The other eight PLU program images in this package are included from the previous update as a convenience; you do not need to re-upload them if already on GitHub.
-5. Do not delete any existing Coast Christmas Classic or other image files.
-
-FIVE NEW IMAGES:
-  plu-baseball-whitman-sweep-1996.jpg
-  plu-baseball-winning-common-1996.jpg
-  plu-baseball-senior-profile-1996.jpg
-  plu-baseball-big-mac-attack-1995.jpg
-  plu-baseball-oregonian-preview-1993.jpg
-
-CHECK: https://mmcpoland-sys.github.io/#plu
-
-The 1996 Whitman article is incomplete in the supplied photo and continues on another page. The date of the Oregonian preview was not visible, so it is not assigned a specific publication date.
+This package is NOT a complete website backup. It contains the changed files and four new photos only.
