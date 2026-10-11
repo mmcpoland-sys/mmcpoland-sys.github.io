@@ -48,3 +48,17 @@
 
 /* Family archive update */
 .legacy-layout{display:grid;grid-template-columns:1.15fr .85fr;gap:32px;align-items:start}.legacy-layout p{color:#526174;margin-top:0}.legacy-photo,.legacy-team{margin:0;background:white;border:1px solid #dce5ee;padding:14px}.legacy-photo button,.legacy-team button{display:block;width:100%;border:0;background:transparent;padding:0;cursor:zoom-in}.legacy-photo img,.legacy-team img{display:block;width:100%;height:auto;max-height:510px;object-fit:contain}.legacy-team{max-width:650px;margin:0 auto 40px}.legacy-team img{max-height:580px}.legacy-photo figcaption,.legacy-team figcaption{font-size:14px;color:#546477;padding:12px 5px 3px}.legacy-clippings{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px;margin:0 0 40px}.legacy-clippings img{max-height:500px}@media(max-width:760px){.legacy-layout,.legacy-clippings{grid-template-columns:1fr}}
+
+/* Archive polish: simpler navigation, introduction, and comfortable mobile browsing */
+.nav nav{gap:clamp(10px,1.35vw,19px)}
+.nav nav a{font-size:12px;letter-spacing:.035em;white-space:nowrap}
+.start-here{background:#eef4fb;border-left:5px solid var(--blue);padding:25px 28px;margin:0 0 35px;max-width:940px}
+.start-here h3{font-size:27px;color:var(--deep);margin:0 0 10px}
+.start-here p{margin:0 0 15px;color:#4d6177}
+.start-links{display:flex;gap:9px;flex-wrap:wrap}
+.start-links a{background:white;border:1px solid #cad9e9;border-radius:5px;padding:8px 12px;text-decoration:none;color:var(--blue);font-weight:800;font-size:12px}
+.start-links a:hover,.start-links a:focus-visible{background:var(--blue);color:white}
+button:focus-visible,a:focus-visible{outline:3px solid #e5a82c;outline-offset:3px}
+@media(max-width:1000px){.nav nav{gap:10px}.nav nav a{font-size:11px}}
+@media(max-width:850px){.menu{display:block}.nav nav{display:none;position:absolute;top:78px;left:0;right:0;background:white;padding:20px 24px;box-shadow:0 12px 25px #0002;flex-direction:column;gap:15px}.nav nav.open{display:flex}.nav nav a{font-size:13px}}
+@media(max-width:600px){.nav nav{top:70px}.start-here{padding:20px}.start-here h3{font-size:24px}}
