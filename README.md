@@ -38,3 +38,7 @@ The recruiting letters are now displayed as compact previews. Click a preview to
 ## Chronological clipping gallery
 
 The Articles section now uses compact clickable thumbnails grouped by junior year, senior year and college, plus text-only game/box-score highlights where original scans are not yet individually matched. Click any image to enlarge.
+
+
+## Expanded clipping gallery (October 2026)
+Added eight photographed newspaper scrapbook pages to the chronological gallery. Dates are intentionally unverified where the visible scans do not establish a publication date. These are photographs of scrapbook pages, not necessarily cropped individual articles.
