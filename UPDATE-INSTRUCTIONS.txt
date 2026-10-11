@@ -1,0 +1,28 @@
+COAST CHRISTMAS CLASSIC — WEBSITE UPDATE
+
+IMPORTANT: This is an UPDATE PACKAGE, not a complete backup of the website.
+The existing assets/ folder was not included in the files supplied here.
+DO NOT delete any existing assets or replace your repository with only these files.
+
+Upload the following to the ROOT of your GitHub Pages repository:
+  index.html
+  script.js
+  styles.css
+  interlake-basketball.html
+
+Upload these two images INSIDE the existing assets/ folder:
+  coast-classic-newport-pilot-1991.jpg
+  coast-classic-estancia-1991.jpg
+
+Leave all other existing files untouched, especially:
+  your other sports pages, existing assets, sitemap.xml, robots.txt,
+  and the Google Search Console verification HTML file.
+
+The photographs were brightened using ordinary image adjustments, not AI reconstruction.
+The two original scans remain otherwise unchanged in content.
+
+After publishing, check:
+ https://mmcpoland-sys.github.io/#california-tournament
+ https://mmcpoland-sys.github.io/#articles
+
+Upload batches of 20 files or fewer if GitHub requests it.
