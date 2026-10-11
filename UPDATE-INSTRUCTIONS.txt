@@ -1,20 +1,21 @@
-PLU FOOTBALL & BASEBALL PROGRAMS — WEBSITE UPDATE
+PLU BASEBALL ARTICLES — WEBSITE UPDATE
 
-This is an UPDATE PACKAGE, not a complete website backup.
-DO NOT DELETE existing GitHub repository files or replace the existing assets folder.
+This is an incremental update, not a complete website backup.
+DO NOT DELETE existing files, existing assets, or Google verification files.
 
-1. Upload these 4 files to the repository ROOT (replace existing copies):
-   index.html
-   styles.css
-   script.js
-   interlake-basketball.html
+1. Unzip this package on your computer.
+2. Upload index.html, script.js, styles.css, and interlake-basketball.html into the ROOT of your GitHub Pages repository, replacing those files.
+3. Open the existing assets/ folder in GitHub. Upload the five NEW images whose names begin with plu-baseball- and end in -1996.jpg, -1995.jpg, or -1993.jpg (listed below).
+4. The other eight PLU program images in this package are included from the previous update as a convenience; you do not need to re-upload them if already on GitHub.
+5. Do not delete any existing Coast Christmas Classic or other image files.
 
-2. Open the EXISTING assets/ folder in GitHub and upload ALL 8 JPG files from the assets/ folder in this ZIP.
-   Keep all previous images and clippings in the folder.
+FIVE NEW IMAGES:
+  plu-baseball-whitman-sweep-1996.jpg
+  plu-baseball-winning-common-1996.jpg
+  plu-baseball-senior-profile-1996.jpg
+  plu-baseball-big-mac-attack-1995.jpg
+  plu-baseball-oregonian-preview-1993.jpg
 
-3. Commit changes, wait for GitHub Pages to publish, then visit:
-   https://mmcpoland-sys.github.io/#plu-programs
+CHECK: https://mmcpoland-sys.github.io/#plu
 
-The update includes five original 1992 PLU football program pages and three original 1995 PLU baseball guide pages. All eight pages can be enlarged. It also preserves the previous Coast Christmas Classic website changes.
-
-IMPORTANT: If the two Coast Christmas Classic images are already in your repository's assets folder, leave them there; this update does not delete them.
+The 1996 Whitman article is incomplete in the supplied photo and continues on another page. The date of the Oregonian preview was not visible, so it is not assigned a specific publication date.

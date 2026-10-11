@@ -40,3 +40,8 @@
 
 /* PLU archival program galleries */
 .plu-memory{margin:24px 0 32px}.plu-program-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(185px,1fr));gap:18px;margin:18px 0 38px}.plu-program-page{margin:0;border:1px solid #d9e2ec;border-radius:12px;overflow:hidden;background:#fff}.plu-program-thumb{width:100%;border:0;background:#f0f2f5;cursor:zoom-in;padding:8px}.plu-program-thumb img{display:block;width:100%;height:260px;object-fit:contain}.plu-program-page figcaption{padding:10px 12px;font-size:13px;line-height:1.5}.plu-program-page figcaption strong{display:block}.plu-program-page figcaption a{display:block;margin-top:7px;font-weight:700}.plu-second{margin-top:32px}
+
+/* Original PLU newspaper archive */
+#plu .plu-program-grid{margin-top:22px}
+#plu .plu-program-page figcaption{line-height:1.55}
+#plu .plu-program-page figcaption span{font-weight:400}
