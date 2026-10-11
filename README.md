@@ -42,3 +42,10 @@ The Articles section now uses compact clickable thumbnails grouped by junior yea
 
 ## Expanded clipping gallery (October 2026)
 Added eight photographed newspaper scrapbook pages to the chronological gallery. Dates are intentionally unverified where the visible scans do not establish a publication date. These are photographs of scrapbook pages, not necessarily cropped individual articles.
+
+
+## Search engine setup (October 2026)
+
+This version includes four dedicated sports pages, metadata, structured data, sitemap.xml and robots.txt. After publishing, open https://search.google.com/search-console, add the URL-prefix property https://mmcpoland-sys.github.io/, complete the verification method offered by Google (HTML file upload is often simplest on GitHub Pages), then submit sitemap.xml under Sitemaps. For Bing, visit https://www.bing.com/webmasters/ and add the site. Search engine indexing is not guaranteed.
+
+The Estancia tournament section preserves Matt's recollection of 30- and 25-point games, meeting Matt Fuerbringer and Tony Gonzalez. Exact original LA Times and Orange County Register clipping scans are NOT assigned to those two performances yet, to avoid mislabeling historical sources. Once the correct two scans are identified, add them as clickable thumbnails.
